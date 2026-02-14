@@ -1,9 +1,15 @@
 # 💫 About Me
-I’m **Kanishkar R**, a passionate Cyber Security Analyst and ethical hacking enthusiast with a strong foundation in penetration testing, vulnerability assessment, and network security.
 
-I enjoy building security-focused solutions by combining offensive security techniques with defensive strategies to strengthen digital infrastructures.
+I’m **Kanishkar R**, a dedicated Cyber Security Analyst and ethical hacking enthusiast passionate about understanding how systems break — and how to make them stronger. My primary focus lies in **penetration testing, vulnerability assessment, and network security**, where I apply offensive security techniques to identify real-world risks and improve defensive resilience.
 
- **B.E. in Cyber Security** and preparing for the **Certified Ethical Hacker (CEH)** certification while improving my skills through TryHackMe, Hack The Box, PortSwigger, PicoCTF, and real-world penetration testing labs.
+My journey in cybersecurity is driven by hands-on learning. Through CTF competitions, security labs, internships, and personal projects, I have gained practical experience in web application testing, network traffic analysis, malware defense concepts, and privilege escalation techniques. I regularly work with tools such as **Wireshark, Burp Suite, Nmap, Metasploit, and OSINT frameworks** to simulate real attack scenarios and analyze security weaknesses.
+
+I enjoy building security-focused applications that combine development and cybersecurity principles — creating systems that are not only functional but resilient against modern threats. My projects explore areas like intelligent malware detection, smart firewall systems, and secure software design.
+
+**Bachelor of Engineering in Cyber Security**, along with advanced ethical hacking training (CEH – LAHTP), I continuously strengthen my skills through platforms like **TryHackMe, Hack The Box, PortSwigger, BTLO, and VulnHub**. I am particularly interested in **Red Team operations, threat detection, incident response, and real-world attack simulation**.
+
+My long-term goal is to grow into a skilled **Red Team Specialist**, contributing to proactive cyber defense by discovering vulnerabilities before attackers do.
+
 
 ---
 
