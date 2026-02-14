@@ -3,7 +3,7 @@ I’m **Kanishkar R**, a passionate Cyber Security Analyst and ethical hacking e
 
 I enjoy building security-focused solutions by combining offensive security techniques with defensive strategies to strengthen digital infrastructures.
 
-Currently pursuing my **B.E. in Cyber Security** and preparing for the **Certified Ethical Hacker (CEH)** certification while improving my skills through TryHackMe, Hack The Box, PortSwigger, PicoCTF, and real-world penetration testing labs.
+ **B.E. in Cyber Security** and preparing for the **Certified Ethical Hacker (CEH)** certification while improving my skills through TryHackMe, Hack The Box, PortSwigger, PicoCTF, and real-world penetration testing labs.
 
 ---
 
